@@ -1,4 +1,4 @@
-// 1st program
+// 01-program
 import java.util.HashSet;
 public class pairsum {
 public  static boolean pairsum (int[] arr, int target)  {

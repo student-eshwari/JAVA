@@ -1,4 +1,4 @@
-// 2nd program
+// 02-program
 import java.util.*;
 public class profit {
 public static int maxprofit ( int[] price){
