@@ -1,6 +1,6 @@
 import java.util.*;
 public class duplicate {
-    public static String removeduplicate(String s){
+    public static String removeduplicate(String s) {
         if(s.length() == 0)
             return " ";
         
@@ -14,7 +14,7 @@ public class duplicate {
         }
         return result.toString();
 }
-    public static void main (String [] args){
+    public static void main (String [] args) {
         String s = "aabbdd ";
         System.out.println(removeduplicate(s)); 
     }
