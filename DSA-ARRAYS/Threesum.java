@@ -31,7 +31,7 @@ public class Threesum {
            System.out.println(sum(nums)); 
         }
     }
-
-    
+// time complexity : O(n^2)
+// space complexity : O(n)    
     
 
