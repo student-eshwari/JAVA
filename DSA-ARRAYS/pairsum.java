@@ -1,8 +1,8 @@
 // 01-program
 import java.util.HashSet;
 public class pairsum {
-     public  static boolean pairsum (int[] arr, int target)  {
-           HashSet<Integer>set = new HashSet<>();
+public  static boolean pairsum (int[] arr, int target)  {
+        HashSet<Integer>set = new HashSet<>();
 
      for (int i=0;i<arr.length; i++) {
         int complement=target-arr[i];
