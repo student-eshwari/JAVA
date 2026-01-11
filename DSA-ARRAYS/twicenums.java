@@ -16,6 +16,9 @@ public class twicenums {
          System.out.println(duplicate(nums));
         }
     }
+    // time complexity : O(n log n)
+    // space complexity : O( log n)
+    //
        
         
 
