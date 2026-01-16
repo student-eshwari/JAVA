@@ -1,5 +1,5 @@
 import java.util.*;
-public class duplicate {
+public class Duplicate {
     public static String removeduplicate(String s) {
         if(s.length() == 0)
             return " ";
