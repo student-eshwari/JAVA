@@ -12,8 +12,7 @@ public class LargeElem{
     public static void main(String[] args) {
         int nums[] = {3,5,7,8,9,6};
         System.out.println("Largest Element is : " + findmax(nums));
-        
     }
-
-
-    }
+ }
+/** Time complexity : O(n)
+Space complexity : O(1) **/
